@@ -1,0 +1,17 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+#top-navbar .navbar-brand {
+  font-size: 1.563rem;
+  font-weight: 600;
+}
+
+#navbarNav a {
+  font-weight: 600;
+  color: #858585;
+}
+
+#navbarNav a:hover {
+  color: #000;
+}
