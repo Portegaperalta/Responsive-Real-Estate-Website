@@ -16,3 +16,30 @@ body {
   color: #000;
   border-bottom: 2px solid #95C425;
 }
+
+#intro-container-carousel .carousel-item {
+  height: 700px;
+}
+
+#intro-container-carousel .carousel-item img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-height: 500px;
+}
+
+#intro-container-form {
+  background-color: #000;
+}
+
+#intro-container-form h1 {
+  color: #fff;
+}
+
+#intro-container-form label {
+  color: #fff;
+}
+
+#intro-container-form input {
+  display: block;
+}
